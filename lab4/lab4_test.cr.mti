@@ -1,0 +1,26 @@
+E:/Study/ECSE222/lab4/game_controller.vhd {2 {vcom -work work -2002 -explicit -stats=none E:/Study/ECSE222/lab4/game_controller.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity game_controller
+-- Compiling architecture behaviour of game_controller
+** Warning: E:/Study/ECSE222/lab4/game_controller.vhd(194): (vcom-1236) Shared variables must be of a protected type.
+
+} {} {}} E:/Study/ECSE222/lab4/tb_game_controller.vhd {2 {vcom -work work -2002 -explicit -stats=none {E:\Study\ECSE222\lab4\tb_game_controller.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_game_controller
+-- Compiling architecture behaviour of tb_game_controller
+** Warning: E:\Study\ECSE222\lab4\tb_game_controller.vhd(54): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: E:\Study\ECSE222\lab4\tb_game_controller.vhd(56): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: E:\Study\ECSE222\lab4\tb_game_controller.vhd(61): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: E:\Study\ECSE222\lab4\tb_game_controller.vhd(63): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: E:\Study\ECSE222\lab4\tb_game_controller.vhd(71): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: E:\Study\ECSE222\lab4\tb_game_controller.vhd(75): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: E:\Study\ECSE222\lab4\tb_game_controller.vhd(79): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}}
